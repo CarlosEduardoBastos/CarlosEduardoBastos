@@ -2,7 +2,7 @@
 - 👀 I’m interested in Html, Css, Javascript, React.js
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Eduardo-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-lima-5638271ba/)](https://www.linkedin.com/in/carlos-eduardo-lima-5638271ba/) or [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardolimabastosm@gmail.com)](mailto:carloseduardolimabastosm@gmail.com)
+- 📫 How to reach [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Eduardo-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-lima-5638271ba/)](https://www.linkedin.com/in/carlos-eduardo-lima-5638271ba/) or [![Gmail Badge](https://img.shields.io/badge/-carloseduardolimabastosm@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardolimabastosm@gmail.com)](mailto:carloseduardolimabastosm@gmail.com)
 
 
 <!---
